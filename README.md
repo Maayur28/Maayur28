@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrackDSA](https://www.trackdsa.in/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://www.mayuragarwal.in/](https://www.mayuragarwal.in/)
 
