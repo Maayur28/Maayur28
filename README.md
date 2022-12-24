@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mayuragarwal2812@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://asset.cloudinary.com/mayur28/dc97397719552a047834e9302411f71c)
+- 📄 Know about my experiences [Resume](https://asset.cloudinary.com/mayur28/032f8a238ba9a0d5965cc363446a4667)
 
 - ⚡ Fun fact **I develop small projects during my free time as a hobby**
 
