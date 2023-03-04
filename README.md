@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mayur Agarwal</h1>
 <h3 align="center">Web Developer | Competitive Coder</h3>
 
-- 🔭 I’m currently working on [TrackDSA](https://www.trackdsa.in/)
+- 🔭 I’m currently working on [TrackDSA](https://www.trackdsa.com/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
