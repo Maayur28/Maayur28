@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mayur Agarwal</h1>
 <h3 align="center">Web Developer | Competitive Coder</h3>
 
-- 🔭 I’m currently working on [TrackDSA](https://www.trackdsa.com/)
+- 🔭 I’m currently working on [PriceTracker](https://www.trackprice.co.in/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mayuragarwal2812@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://asset.cloudinary.com/mayur28/e9a34711eb7ac413b60ccac264cc98a5)
+- 📄 Know about my experiences [Resume](https://asset.cloudinary.com/mayur28/64b70cb019636f9a687cfadd271d729b)
 
 - ⚡ Fun fact **I develop small projects during my free time as a hobby**
 
