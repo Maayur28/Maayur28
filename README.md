@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mayur Agarwal</h1>
 <h3 align="center">Web Developer | Competitive Coder</h3>
 
-- 🔭 I’m currently working on [PriceTracker](https://www.trackprice.co.in/)
+- 🔭 I’m currently working on [TrackMYPrice](https://www.trackmyprice.in/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
