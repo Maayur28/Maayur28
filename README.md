@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [TrackMYPrice](https://www.trackmyprice.in/)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.mayuragarwal.in/](https://www.mayuragarwal.in/)
 
-- 💬 Ask me about **MERN Stack and DSA**
+- 💬 Ask me about **Web Dev and DSA**
 
 - 📫 How to reach me **mayuragarwal2812@gmail.com**
 
